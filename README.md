@@ -23,7 +23,7 @@ In addition to my frontend skills, I have experience working with MongoDB, which
 
 # Get in Touch🛜
 * LinkedIn: [ Haruna Alih Idris](https://www.linkedin.com/in/haruna-idris-68aa3223a/)
-* X : [Idris Haruna👨‍💻 ](https://x.com/I_am_eedris))
+* X : [Idris Haruna👨‍💻 ](https://x.com/I_am_eedris)
 * [https://harunaidrisportfolio.vercel.app/ ](https://harunaidrisportfolio.vercel.app/)
 
 # Fun Fact ⚡
